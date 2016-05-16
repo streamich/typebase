@@ -1,6 +1,6 @@
 # `struct` for Node.js
 
-Read `docco` docs at [here](http://streamich.github.io/typebase/).
+Read `docco` docs at [here](http://streamich.github.io/typebase/). `npm` package is [here](https://www.npmjs.com/package/typebase).
 
 Consider a `C/C++` structure:
 
